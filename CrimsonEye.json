@@ -3,7 +3,7 @@
   "description": "Dark red and blue theme",
   "version": "1.0.0",
   "authors": [
-    { "name": "YOUR_NAME", "id": "YOUR_DISCORD_ID" }
+    { "name": "uhpic", "id": "uhpic" }
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": ["#2B438F"],
@@ -257,7 +257,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "YOUR_IMAGE_LINK",
+    "url": "https://cdn.jsdelivr.net/gh/uhpic/hehehe@main/eyesgif.gif",
     "alpha": 0.45,
     "blur": 0.5
   }
