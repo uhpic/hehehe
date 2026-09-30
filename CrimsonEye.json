@@ -5,7 +5,7 @@
   "authors": [
     {
       "name": "uhpic",
-      "id": "uhpic"
+      "discord_id": "uhpic"
     }
   ],
   "semanticColors": {
@@ -441,7 +441,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://cdn.jsdelivr.net/gh/uhpic/hehehe@main/eyesgif.gif",
+    "url": "https://cdn.jsdelivr.net/gh/uhpic/hehehe@main/eyesgif2.gif",
     "alpha": 0.5,
     "blur": 0.3
   }
